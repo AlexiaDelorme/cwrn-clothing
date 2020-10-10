@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 
 import { Switch, Route, Redirect } from "react-router-dom";
 import { connect } from "react-redux";
